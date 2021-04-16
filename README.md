@@ -33,5 +33,6 @@ As self-taught software engineer i still learning so if you had bugs or anything
 
 ---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wafelkertas&hide=java,html,css&theme=radical))](https://github.com/Wafelkertas/github-readme-stats)
 
-
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wafelkertas&theme=radical)](https://github.com/Wafelkertas/github-readme-stats)
