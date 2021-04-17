@@ -12,6 +12,7 @@ A software engineer had experienced in Android and Web development, tinkering wi
 Not only software development i also tinkering with machine learning especially deep learning for object recognition, image classification, and computer vision in general with  opencv or tensorflow library.
 
 As self-taught software engineer i still learning so if you had bugs or anything on my repositories contact me on 
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/WaffleanPancake?label=People%20following%20me%20on%20Twitter&style=social)](https://twitter.com/intent/follow?screen_name=WaffleanPancake)
 
 
