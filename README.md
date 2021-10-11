@@ -7,7 +7,7 @@
 
 
 
-A software engineer had experienced in Android and Web development, tinkering with all across framework and technologies stack listed in the toolbox below.
+I am android developer experienced in Android and Web development, tinkering with all across framework and technologies stack listed in the toolbox below.
 
 Not only software development i also tinkering with machine learning especially deep learning for object recognition, image classification, and computer vision in general with  opencv or tensorflow library.
 
